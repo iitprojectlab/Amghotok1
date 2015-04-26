@@ -1,0 +1,14 @@
+Requirements ¬¬¬
+1.	Accessible via smartphone synchronized with Google account.
+2.	Allow user to create own profile and spouse’s profile.
+3.	Allow user to update any information with or without internet.
+4.	Save the user information into local database and in web server.
+5.	Allow registered user to contact with any profiles.
+6.	Don’t allow visitor to contact anyone but have privilege to search on specific constraints.
+7.	Have privilege to search on any information for registered user.
+8.	Get all featured and latest update from web server to local database and to show the user.
+9.	Have the privacy about email, phone number, picture or any information that user wants.
+10.	Create local database to store last seen page information, update information and profile information.
+11.	Have the privilege to see the last visited page.
+12.	All forms must be verified.
+13.	All UI must working properly.
